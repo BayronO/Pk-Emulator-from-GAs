@@ -22,7 +22,7 @@ This notebook generates the reference datasets required to train and validate th
 - Calls **CLASS** to compute the linear transfer function.  
   Output: `Transfer_Function_h_omegab_omegam.txt`
 - This file is used by `LCDM.nb`, where the GA-based symbolic regression is performed to obtain:
-  - the smooth transfer function \( T_{\mathrm{nw}} \),
+  - the smooth transfer function $T_{\mathrm{nw}}$,
   - the wiggle component \( T_{\mathrm{w}} \).
 
 #### 1.2 Linear power spectra database
