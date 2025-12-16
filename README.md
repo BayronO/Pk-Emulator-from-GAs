@@ -48,9 +48,9 @@ This notebook contains the core implementation of the Genetic Algorithm and the 
 - `pySR.ipynb` implements a minimal **PySR** routine to obtain an analytical expression for the second derivative of $P(k)$ evaluated at $k_\max$.
 
 ### 3. `Modified_Gravity.nb`
-This notebook introduces parametric deformations of the $\Lambda$CDM power spectrum to incorporate typical signatures of modified gravity (MG) theories. Two representative case studies are provided: Hu–Sawicki $f(R)$ gravity, planck_late modified gravity model.
+This notebook introduces parametric deformations of the $\Lambda\mathrm{CDM}$ power spectrum to incorporate typical signatures of modified gravity (MG) theories. Two representative case studies are provided: Hu–Sawicki $f(R)$ gravity, planck_late modified gravity model.
 
-These examples illustrate how the GA-based emulator can be systematically extended beyond standard $\Lambda$CDM.
+These examples illustrate how the GA-based emulator can be systematically extended beyond standard $\Lambda\mathrm{CDM}$.
 
 ### 4. `2PTCorrelation.ipynb`
 This notebook computes the two-point correlation function (2PCF) and analyzes BAO-scale observables.
@@ -58,7 +58,7 @@ This notebook computes the two-point correlation function (2PCF) and analyzes BA
 The 2PCF is computed using **CLASS**, the **Eisenstein–Hu smooth power spectrum**, and the GA-based smooth $P(k)$ developed in this work.
 
 We compare:
-- $\Lambda$CDM vs. Hu–Sawicki $f(R)$ predictions,
+- $\Lambda\mathrm{CDM}$ vs. Hu–Sawicki $f(R)$ predictions,
 - the impact of MG-induced deformations on the BAO scale.
 
 ## Reproducibility
